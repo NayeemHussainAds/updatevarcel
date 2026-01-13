@@ -12,15 +12,15 @@ export default function handler(req, res) {
   const slug = req.query.slug || "";
   const label = slug.split("-")[0];
 
+  // 🖼️ Image map
   const imageMap = {
     tiger: "https://blogger.googleusercontent.com/img/.../Tiger.jpg",
     jawan: "https://blogger.googleusercontent.com/img/.../Jawan.jpg",
     modi:  "https://blogger.googleusercontent.com/img/.../Modi.jpg"
   };
 
-  const imageURL =
-    (imageMap[label] || imageMap.tiger) +
-    "?cb=" + Date.now();
+  // Cache-bypass for FB
+  const imageURL = (imageMap[label] || imageMap.tiger) + "?cb=" + Date.now();
 
   // 🤖 FB BOT → preview only
   if (isFacebookBot) {
