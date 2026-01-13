@@ -5,11 +5,11 @@ export default function handler(req, res) {
   // Human redirect map
   const redirectMap = {
     marry: "https://t.co/oST3ruUh2B",
-    marry: "https://t.me/yourchannel/123",
-    marry: "https://t.me/yourchannel/123",
-    marry: "https://t.me/yourchannel/123",
-    marry: "https://t.me/yourchannel/123",
-    marry: "https://t.me/yourchannel/123",
+    name: "https://t.me/yourchannel/123",
+    name3: "https://t.me/yourchannel/123",
+    namr2: "https://t.me/yourchannel/123",
+    name4: "https://t.me/yourchannel/123",
+    name6: "https://t.me/yourchannel/123",
     mod: "https://www.youtube.com/"
   };
 
