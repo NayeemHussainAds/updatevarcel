@@ -59,7 +59,7 @@ export default function handler(req, res) {
           <meta property="og:title" content="&#8203;" />
           <meta property="og:description" content="" />
           <meta property="og:image" content="${imageURL}" />
-          <meta property="og:url" content="https://example.com/empty" />
+          
 
           <!-- 🎭 Double Cloaking: Bot কে meta দেখাবে, হিউম্যান কে JS redirect করবে -->
           <script>
