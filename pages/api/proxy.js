@@ -30,7 +30,7 @@ export default function handler(req, res) {
     fukrey: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV8h2jPZtX_-ShGIm_cnS-Xsapzsb-fBASOYs-x0kcV8lfI_V4sDnnyK-K5flOh3-X-iQrjoZgIMCLYNb7193LGxkqz-77vPYgIGjzfRoCkgtiT8LLvtExoIjZgbeZpMHLVc8kTYKCq1KehWpkYZ5M-SjEUepPLal5L94AsJSXeFpN46nt8GEEkDgzam4/w640-h360/Tiger%20Nageswara%20Rao%20(2).jpg",
     jawan: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNAuW-5150Z6lGflLTsxdC_m5ZGN0-thd_JUYkesGqphqgnc5usYMF792UF8VKfekZSPb8PeUvsQ5n9H2lsLHkZMYJNudBXSZeD__PPpVYPt08Fhsp_t4EV25HtGFhmzBSCMEl0nrJ7QslRNS6oY_Waa0hIbUgrq-m7Ukkhyphenhyphen3gNbgfdfZoRAajvrVU2pPZ/s16000/video-frame-image.png",
     dir: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-qRrfGoK_d4LBL1skUnfADLKMye3Er0Lp5KYVw7QURwiZU65SuQn6KmXA4TstyhS-eC2-BVe_NbHZd8a5rEf7PWJWAT9PSUKzeupD0qpv-aNJ9ja2WWCeS8tooi0Ut3BbjYTKYWQcCZqb0GguGsHmHoYJEFM9vly_jU8aNzFgcLM59gB2S486zVSpuZ7X/w400-h225/edited_thumbnail%20(1).png",
-    name: "",
+    marry: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1E2D6amjZ8Bt-A2ld-vgjK7yE3cBWBTapA2VAST8N34i1f0hKOpICl3UvzXgZy-hriXAAFp_P7iwbiFJ_9_LC6AcufLNdTmOsJ9l7o0j4z8Ph6sIjOf3uw31mX7T0WUQr3QB5dLLc_-Osw-FZjXexRt-b4403Gb_S89Crme3zQF8NhuUk-BNlaOY8u-2/w640-h386/1A7F79D0-A981-47DA-B1E0-D3851824009D-780x470-1.jpeg",
     name: "",
     name: "",
     name: "",
